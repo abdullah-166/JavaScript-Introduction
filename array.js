@@ -1,0 +1,11 @@
+var friends = ["minhaz","mehedi","fahid"];
+friends.push("maltoba");
+// friends.pop();
+// friends.unshift("Abdullah");
+// friends.shift();
+// console.log(friends);
+// console.log(['a','b'].concat('c'));
+// console.log(friends.reverse());
+// console.log(friends.slice(0,3));
+// console.log(friends.indexOf("maltoba"));
+console.log(friends.includes("fahid"));
